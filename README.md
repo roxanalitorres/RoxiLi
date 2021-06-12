@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @RoxiLi
-- 👀 I’m interested in web and mobile software development
-- 🌱 I’m currently learning payment gateways on eccomerce
+👋 Hi there! my name is ✨Roxana✨
+
+
+
+
+
+I'm a self-taught Software Developer and really like to create value through technology. I also like to connect with people, I believe that in the long or short term it can benefit me or a project.
+
+I am currently working on my own ecommerce. I feel comfortable with technologies like AnhularJs, Java, Springboot.
+
+
 
 
 <!---
