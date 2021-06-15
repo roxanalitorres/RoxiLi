@@ -14,7 +14,7 @@
   </p>
 
 ## Proyectos con Angular 
-* [Firebase con Angular](https://github.com/RoxiLi/proyectos-angularjs#terapol)
+* [Firebase - Terapol](https://github.com/RoxiLi/proyectos-angularjs#terapol)
 * [Equipos ET (En desarrollo) 🚀](https://github.com/RoxiLi/proyectos-angularjs#equipos-et)
 * [Node Js - Bodega Gobierno Autónomo de Pastaza](https://github.com/RoxiLi/proyectos-angularjs#bodega-gobierno-autónomo-de-pastaza])
 * [Microservicios - Salud Espe](https://github.com/RoxiLi/proyectos-angularjs#salud-espe)
