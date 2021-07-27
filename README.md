@@ -27,20 +27,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Roxyliii" >
       <img src="https://image.flaticon.com/icons/png/512/1409/1409937.png" width="30" alt="accessibility text">
     </a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/roxanalitorres/" >
-      <img src="https://image.flaticon.com/icons/png/512/1409/1409946.png" width="30" alt="accessibility text">
-    </a> 
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/roxana-torres-530764182/" >
       <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" alt="accessibility text">
     </a> 
 </p>
-<!-- <p align="right">
-  <img src="https://data.whicdn.com/images/268710466/original.gif" width="150" alt="accessibility text">
-</p> -->
 
-<!--  ![imagename](https://data.whicdn.com/images/268710466/original.gif) -->
-<!--        <img    width="200px" style="max-width:100%;"  align="center"   src="https://image.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg"  alt="Vex Logo">
- -->
 
 
 
