@@ -9,9 +9,7 @@
     </a> 
   </p>
   <h3 align="center"> ✨Desarrolladora Web✨ <br>    </h3>
-  <p align="center">
-  Soy una desarrolladora de software autodidacta y me gusta mucho crear valor a través de la tecnología. También me gusta conectar con la gente, ser genuinos creo que es una herramienta muy poderosa.  <br>  Actualmente estoy trabajando en mi propio ecommerce contiene pasarela de pagos. Me siento cómodo con tecnologías como Angular, Java, Springboot.
-  </p>
+
 
 ## Proyectos con Angular Full Stack
 * [Firebase - Terapol](https://github.com/RoxiLi/proyectos-angularjs#terapol)
