@@ -11,12 +11,13 @@
   <h3 align="center"> ✨Desarrolladora Web✨ <br>    </h3>
 
 
-## Proyectos con Angular Full Stack
+## Desarrolladora en nodeJS y Vuejs
+<!-- ## Proyectos con Angular Full Stack
 * [Firebase - Terapol](https://github.com/RoxiLi/proyectos-angularjs#terapol)
 * [Equipos ET (En desarrollo) 🚀](https://github.com/RoxiLi/proyectos-angularjs#equipos-et)
 * [Node Js - Bodega Gobierno Autónomo de Pastaza](https://github.com/RoxiLi/proyectos-angularjs#bodega-gobierno-autónomo-de-pastaza])
 * [Microservicios - Salud Espe](https://github.com/RoxiLi/proyectos-angularjs#salud-espe)
-
+ -->
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="mailto:roxanalitorres@gmail.com" >
